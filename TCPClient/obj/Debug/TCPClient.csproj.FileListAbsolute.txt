@@ -1,0 +1,7 @@
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\nam3 ki1\laptrinh hethong\CShap\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
